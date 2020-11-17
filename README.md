@@ -6,4 +6,4 @@ This contains the starter code as well that you can run and submit to the compet
 
 Make sure to login first or register an account with ACM AI!
 
-Link to kick off slides: https://acmurl.com/nnkickoff
+Link to kick off slides: https://docs.google.com/presentation/d/1ZXHG_5rOEuu5ctrup0C8_JtXHOFgpEopePjqDbExg74/edit#slide=id.ga74dcee8c1_2_5
