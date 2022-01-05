@@ -8,7 +8,7 @@ This repository contains some starter code in `easy` and `medium` directories th
 
 The distinction between `easy` and `medium` is that `easy` contains 3D Data while `medium` contains 4D Data.
 
-## Model Parameter Tiers
+## Competition Tiers
 
 For this competition, we want to bring out the best and brightest ideas from our competitors! To do this, we will be awarding winners across 3 Model Parameter + Training Epoch Tiers which are defined below:
 
