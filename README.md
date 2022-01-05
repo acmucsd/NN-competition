@@ -1,8 +1,12 @@
-# NN-competition
+# ACM AI Neural Network Modeling Competition 🔮
 
-Welcome to the Fall 2020 Neural Network Modeling Competition. This competition will last at least 2 weeks, end date is to be determined.
+---
 
-This contains the starter code as well that you can run and submit to the competition at https://ai.acmucsd.com/competitions/nn
+Welcome to the Winter 2022 Neural Network Modeling Competition! This competition will run for the entirety of Winter Quarter 2022 ❄️
+
+This repository contains some starter code in `easy` and `medium` directories that you can run and submit to the competition at https://ai.acmucsd.com/competitions/nn.
+
+The distinction between `easy` and `medium` is that `easy` contains 3D Data while `medium` contains 4D Data.
 
 Make sure to login first or register an account with ACM AI!
 
